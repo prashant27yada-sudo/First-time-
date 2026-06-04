@@ -2,4 +2,4 @@
 this is my first git hub projectorie
 
 Author -Prashant Yadav 
-e-mail address-prashant27yada@gmail.com
+e-mail prashant27yada@gmail.com
